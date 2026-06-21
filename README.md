@@ -20,8 +20,9 @@ This repository tracks my journey to becoming a world-class AI and Full Stack En
 
 | Day | Task | Status | Commit/PR |
 |-----|------|--------|-----------|
-| 1   | Initialize Command Center & Profile | ✅ | [Commit](https://github.com/DevCube24/DevCube24/commit/...) |
-| 1   | DSA: Arrays (Two Sum) | ⏳ | - |
+| 1   | Initialize Command Center & Profile | ✅ | [Commit](https://github.com/DevCube24/DevCube24/commit/691793f) |
+| 1   | DSA: Arrays (Two Sum) | ✅ | [Commit](https://github.com/DevCube24/leetcode-solutions/commit/98fec4b) |
+| 1   | Initialize Multi-Agent Researcher | ✅ | [Commit](https://github.com/DevCube24/multi-agent-researcher/commit/36b2c25) |
 
 ---
 
